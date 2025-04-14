@@ -1,7 +1,3 @@
-حتماً! در ادامه، یک فایل `README.md` کامل و حرفه‌ای برای پروژه شما نوشته شده است. این فایل شامل توضیحات دقیق، نحوه نصب و راه‌اندازی، و سایر اطلاعات مفید است.
-
----
-
 # Dima Chat Support System
 
 A lightweight and efficient chat support system built with **PHP**, **MySQL**, **Bootstrap**, and **jQuery**. This project is designed to provide a seamless chat experience for customers and administrators, with features like real-time messaging, admin panel, pagination, and security measures.
